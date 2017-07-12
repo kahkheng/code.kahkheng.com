@@ -42,6 +42,7 @@
                     <li><a href="#">{{ trans('adminlte_lang::message.linklevel2') }}</a></li>
                 </ul>
             </li>
+            <li class="active"><a href="{{ url('Test') }}"><i class='fa fa-link'></i> <span>NICE LINK 2</span></a></li>
         </ul><!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->
